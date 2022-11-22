@@ -12,6 +12,7 @@
 
             #map {
                 height: 80vh;
+                margin-top: 2rem;
             }
 
         /* Optional: Makes the sample page fill the window. */
